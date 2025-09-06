@@ -68,10 +68,17 @@ ul
      text-transform: capitalize;
      font-size: 30px;
      position: absolute;
+     padding: 20px;
+     padding-top: 10px;
   }
+
 .navmenu
   {
      margin-top: 20px;
+  }
+.nav-links
+  {
+   padding-top: 10px;
   }
 .nav-links li 
   {
